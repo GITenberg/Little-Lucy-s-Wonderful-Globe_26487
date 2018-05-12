@@ -30,6 +30,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
 description: Little Lucy's wonderful globe -- The history of little Jack -- The history
   of little Goody Two-shoes -- Evenings at my grandmother's.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26487#Little-Lucy-s-Wonderful-Globe
 gutenberg_issued: '2008-08-30'
 gutenberg_type: Text
 identifiers:
